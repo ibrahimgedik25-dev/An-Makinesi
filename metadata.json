@@ -1,0 +1,7 @@
+{
+  "name": "Anı Makinesi",
+  "description": "Çocukluk anılarınızdan birkaç kelime girin ve yapay zekanın sizin için o anıyı metin ve görsel olarak canlandırmasını izleyin.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
